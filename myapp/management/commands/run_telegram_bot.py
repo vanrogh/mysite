@@ -52,3 +52,4 @@ class Command(BaseCommand):
         print("Starting bot...")
         bot.polling()
         print("Bot stopped")
+
